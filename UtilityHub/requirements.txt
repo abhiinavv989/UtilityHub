@@ -1,0 +1,6 @@
+streamlit
+pandas
+Pillow
+pypdf
+qrcode[pil]
+pytest
